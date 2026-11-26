@@ -18,3 +18,21 @@ Build and test security detection rules.
 Simulate selected attack techniques in a controlled environment.
 
 Investigate security events and document findings.
+
+
+## Project Progress
+- [x] Setup home lab
+- [x] Install Elastic search and verify its installation
+- [ ] Install Kibana.
+- [ ] Configure Windows endpoint logging.
+- [ ] Install and configure Sysmon.
+- [ ] Configure Elastic Agent.
+- [ ] Verify centralized log ingestion.
+- [ ] Develop and test detection rules.
+- [ ] Conduct attack simulations.
+- [ ] Document investigation findings.
+
+
+## Documentation
+
+Detailed setup notes and technical configurations are maintained in the setup/ directory.
