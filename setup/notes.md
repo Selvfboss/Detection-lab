@@ -1,4 +1,24 @@
-# 1. Elasticsearch Installation
+# 1. Home Lab Infrastructure
+
+## Hypervisor
+Hypervisor: VMware Worksatation
+
+Purpose: To create and manage the virtual machines used in the lab.
+
+## Virtual Machines
+Ubuntu Server - Purpose is to host the ELK stack
+
+Windows VM - Purpose is to generate endpoint security telemetry
+
+## VM screenshots
+<img width="1202" height="696" alt="WinVM" src="https://github.com/user-attachments/assets/ebc3f1ff-f5bd-4bed-989a-f1fcd0afa3f1" />
+
+<img width="1271" height="875" alt="ububtuVm" src="https://github.com/user-attachments/assets/1c7cd079-47b6-4a01-9662-a8c164bc71ba" />
+
+
+
+
+# 2. Elasticsearch Installation
 
 ### Environment
 - Operating System: Ubuntu Server
