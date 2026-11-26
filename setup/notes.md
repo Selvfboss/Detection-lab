@@ -7,6 +7,7 @@
 ### Verification
 
 After installation, I verified that Elasticsearch was running using: **sudo systemctl status elasticsearch**
+
 The service returned an active (running) status, confirming that Elasticsearch was running successfully.
 
 I then tested its API endpoint using:  **curl -k -u elastic https://localhost:9200** 
