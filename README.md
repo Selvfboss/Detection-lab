@@ -1,13 +1,12 @@
 # Detection-lab
 
-Detection Engineering Home Lab
-
-Project Overview
+## Project Overview
 
 This project involves building a virtual cybersecurity monitoring environment to practise security monitoring, threat detection, log analysis and incident investigation.
 The lab uses Windows and Ubuntu virtual machines, with the Elastic Stack serving as the central logging and analysis platform.
 
-Objectives
+
+### Objectives
 
 Establish centralized logging for Windows endpoints.
 
