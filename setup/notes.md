@@ -6,10 +6,10 @@
 
 ### Verification
 
-After installation, I verified that Elasticsearch was running using: ** sudo systemctl status elasticsearch **
+After installation, I verified that Elasticsearch was running using: **sudo systemctl status elasticsearch**
 The service returned an active (running) status, confirming that Elasticsearch was running successfully.
 
-I then tested its API endpoint using: ** curl -k -u elastic https://localhost:9200 **
+I then tested its API endpoint using:  **curl -k -u elastic https://localhost:9200** 
 
 Elasticsearch returned a JSON response containing cluster information, node details and version information.
 
